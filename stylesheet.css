@@ -1,0 +1,428 @@
+.navigationBar
+{
+	width:100%;
+	height:90px;
+	padding-top:3%;
+        /*box-shadow: 0px 3px 6px rgba(0,0,0,1);*/
+}
+
+.logo
+{
+	margin-left:3.45rem;
+	width:30%;
+	height:50px;
+	float:left;
+}
+
+.logoStyle
+{
+	width:110px;
+	height:50px;
+}
+
+.actionBar
+{
+	font-family:montserrat;
+	font-weight:normal;
+	float:right;
+	font-size:0.85rem;
+	margin-right:3.45rem;
+	margin-top:1.2rem;
+	width:60%;
+}
+
+.contactUs
+{
+	float:right;
+	margin-left:2rem;
+}
+
+.currentProjects
+{
+	float:right;
+	margin-left:2rem;
+}
+
+.signage
+{
+	float:right;
+	margin-left:2rem;
+}
+
+.ourClients
+{
+	float:right;
+	margin-left:2rem;
+}
+
+.ourServices
+{
+	float:right;
+	margin-left:2rem;
+}
+
+.aboutUs
+{
+	float:right;
+	margin-left:2rem;
+}
+
+.home
+{
+	color:#28A6FE;
+	float:right;
+	margin-left:2rem;
+}
+
+.container
+{
+	position:relative;
+}
+
+.bannerTextwhite
+{
+        position: absolute;
+        top: 30%;
+        left: 15%;
+	line-height:5.43rem;
+	font-family:Raleway;
+	font-weight: Bolder;
+	color:white;
+	font-size:4.5rem;
+	text-shadow:0px 3px 6px rgba(0,0,0,0.2);
+}
+
+.bannerTextblue
+{
+        position: absolute;
+        top: 30%;
+        left: 27%;
+	color:#28A6FE;
+	line-height:5.43rem;
+	font-family:Raleway;
+	font-weight: Bolder;
+	font-size:4.5rem;
+	text-shadow:0px 3px 6px rgba(0,0,0,0.2);
+}
+
+
+
+
+.bannerSubtext
+{
+        position: absolute;
+	top:60%;
+        left: 15%;
+	line-height:1.5rem;
+	font-family:montserrat;
+	color:white;
+	font-weight: normal;
+	font-size:1.125rem;
+	text-shadow:0px 3px 6px rgba(0,0,0,0.2);
+}
+
+.headerText
+{
+	text-align:center;
+	margin-top:3.75rem;
+	font-family:montserrat;
+	color:black;
+	font-weight: Bolder;
+	font-size:3.5rem;
+}
+
+.titleHighlight
+{
+	color:#28A6FE;
+}
+
+.aboutusText
+{
+	margin-top:3rem;
+	font-family:montserrat;
+	color:black;
+	font-weight: normal;
+	font-size:1.2rem;
+	margin-left:4rem;
+	margin-right:4rem;
+	float:center;
+	text-align:center;
+	line-height:1.5rem;
+}
+
+.middlePart
+{
+	width:100%;
+}
+
+.patternBlue
+{
+	margin-top:4.5rem;
+	position:relative;
+	width:45%;
+	float:left;
+}
+
+.header2
+{
+	position:absolute;
+	margin-left:4rem;
+	top:3.75rem;
+	font-family:montserrat;
+	color:white;
+	font-weight: Bolder;
+	font-size:3.5rem;
+	line-height:4.5rem;
+}
+
+.container2
+{
+	width:45%;
+	float:right;
+	margin-top:8rem;
+	height:50;
+	margin-right:3.45rem;
+}
+
+.row1
+{
+	height:33%;
+}
+
+.icon1
+{
+	width:17%;
+	float:left;
+}
+
+.iconText
+{
+	font-family:montserrat;
+	color:black;
+	font-weight:normal;
+	font-size:1.2rem;
+	padding:1.5rem;
+	line-height:1.5rem;
+}
+
+.row2
+{
+	height:33%;
+	float:left;
+}
+
+.icon2
+{
+	width:17%;
+	float:left;
+}
+
+.row3
+{
+	height:33%;
+	float:left;
+}
+
+.icon3
+{
+	width:17%;
+	float:left;
+}
+
+.container3
+{
+	float:left;
+	width:100%;
+}
+
+.container4
+{
+	margin-top:3.75rem;
+	float:left;
+	width:100%;
+	height:470px;
+	margin-bottom:5rem;
+}
+
+.ourServices1
+{
+	background-color:white;
+	box-shadow:0px 4px 8px rgba(0,0,0,0.24);
+	border-radius:24px;
+	position:relative;
+	margin-left:4rem;
+	height:100%;
+	float:left;
+	width:25%;
+}
+
+.serviceImg1
+{
+	position:relative;
+	float:top;
+	width:100%;
+}
+
+.serviceTitle
+{
+	margin-top:1rem;
+	text-align:center;
+	font-size:1.2rem;
+	color:#28A6FE;
+	font-family:montserrat;
+	font-weight:normal;
+}
+
+.serviceText
+{
+	margin-top:1rem;
+	text-align:center;
+	font-size:1rem;
+	color:black;
+	font-family:montserrat;
+	font-weight:lighter;
+	margin-left:1rem;
+	margin-right:1rem;
+	line-height:1.5rem;
+	margin-bottom:4rem;
+}
+
+.learnMore
+{
+	background-color:#28A6FE;
+	width:145px;
+	height:48px;
+	border-radius:24px;
+	position:relative;
+	margin:auto;
+	color:white;
+	font-family:Montserrat;
+	font-weight:normal;
+	font-size:1rem;
+	text-align:center;
+	line-height:48px;
+}
+
+
+.ourServices2
+{
+	background-color:white;
+	box-shadow:0px 4px 8px rgba(0,0,0,0.24);
+	border-radius:24px;
+	position:relative;
+	margin-right:4rem;
+	height:100%;
+	float:right;
+	width:25%;
+}
+
+.ourServices3
+{
+	background-color:white;
+	box-shadow:0px 4px 8px rgba(0,0,0,0.24);
+	border-radius:24px;
+	position:relative;
+	margin-right:4rem;
+	height:100%;
+	margin:auto;
+	width:25%;
+}
+
+.container5
+{
+	margin-top:3.75rem;
+	float:left;
+	width:100%;
+	height:102px;
+	margin-bottom:5rem;
+}
+
+.client1
+{
+	border: 1px solid grey;
+	border-radius:33px 0px 33px 0px;
+	position:relative;
+	margin-left:6rem;
+	height:100%;
+	float:left;
+	width:25%;
+}
+
+.clientImage
+{
+	margin-auto;
+	float:center;
+}
+
+
+.client2
+{
+	border: 1px solid grey;
+	border-radius:33px 0px 33px 0px;
+	position:relative;
+	margin-right:6rem;
+	height:100%;
+	float:right;
+	width:25%;
+}
+
+.client3
+{
+	border: 1px solid grey;
+	border-radius:33px 0px 33px 0px;
+	position:relative;
+	margin-right:4rem;
+	height:100%;
+	margin:auto;
+	width:25%;
+}
+
+
+
+/*
+.white
+{
+	background-color:white;
+}
+.tan
+{
+background-color:tan;
+}
+
+.grey
+{
+background-color:grey;
+}
+
+.silver
+{
+background-color:silver;
+}
+
+.indianred
+{
+background-color:indianred;
+}
+
+.yellow
+{
+background-color:yellow;
+}
+
+@media only screen and (max-width:640px)
+
+{
+	.secBg
+	{
+		width:100%;
+	}
+	
+	.actionBar
+	{
+		margin:auto;
+	}
+
+@media only screen and (max-width:860px)
+
+		
+}
