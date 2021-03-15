@@ -85,8 +85,8 @@
         top: 30%;
         left: 15%;
 	line-height:5.43rem;
-	font-family: 'Montserrat';
-	font-weight: Bolder;
+	font-family:'Montserrat';
+	font-weight:Bolder;
 	color:'white';
 	font-size:4.5rem;
 	text-shadow:0px 3px 6px rgba(0,0,0,0.2);
@@ -100,7 +100,7 @@
 	color:#28A6FE;
 	line-height:5.43rem;
 	font-family:'OpenSans';
-	font-weight: Bolder;
+	font-weight:Bolder;
 	font-size:4.5rem;
 	text-shadow:0px 3px 6px rgba(0,0,0,0.2);
 }
@@ -127,7 +127,7 @@
 	margin-top:3.75rem;
 	font-family: 'Montserrat';
 	color:black;
-	font-weight: Bolder;
+	font-weight:Bolder;
 	font-size:3.5rem;
 }
 
@@ -141,7 +141,7 @@
 	margin-top:3rem;
 	font-family: 'Montserrat';
 	color:black;
-	font-weight: normal;
+	font-weight:normal;
 	font-size:1.2rem;
 	margin-left:4rem;
 	margin-right:4rem;
@@ -168,9 +168,9 @@
 	position:absolute;
 	margin-left:4rem;
 	top:3.75rem;
-	font-family: 'Montserrat';
+	font-family:'Montserrat';
 	color:white;
-	font-weight: Bolder;
+	font-weight:Bolder;
 	font-size:3.5rem;
 	line-height:4.5rem;
 }
@@ -197,7 +197,7 @@
 
 .iconText
 {
-	font-family: 'Montserrat';
+	font-family:'Montserrat';
 	color:black;
 	font-weight:normal;
 	font-size:1.2rem;
