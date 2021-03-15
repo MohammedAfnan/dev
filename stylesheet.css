@@ -22,7 +22,7 @@
 
 .actionBar
 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	font-weight:normal;
 	float:right;
 	font-size:0.85rem;
@@ -85,7 +85,7 @@
         top: 30%;
         left: 15%;
 	line-height:5.43rem;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	font-weight: Bolder;
 	color:white;
 	font-size:4.5rem;
@@ -114,7 +114,7 @@
 	top:60%;
         left: 15%;
 	line-height:1.5rem;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	color:white;
 	font-weight: normal;
 	font-size:1.125rem;
@@ -125,7 +125,7 @@
 {
 	text-align:center;
 	margin-top:3.75rem;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	color:black;
 	font-weight: Bolder;
 	font-size:3.5rem;
@@ -139,7 +139,7 @@
 .aboutusText
 {
 	margin-top:3rem;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	color:black;
 	font-weight: normal;
 	font-size:1.2rem;
@@ -168,7 +168,7 @@
 	position:absolute;
 	margin-left:4rem;
 	top:3.75rem;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	color:white;
 	font-weight: Bolder;
 	font-size:3.5rem;
@@ -197,7 +197,7 @@
 
 .iconText
 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	color:black;
 	font-weight:normal;
 	font-size:1.2rem;
@@ -269,7 +269,7 @@
 	text-align:center;
 	font-size:1.2rem;
 	color:#28A6FE;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	font-weight:normal;
 }
 
@@ -279,7 +279,7 @@
 	text-align:center;
 	font-size:1rem;
 	color:black;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	font-weight:lighter;
 	margin-left:1rem;
 	margin-right:1rem;
@@ -296,7 +296,7 @@
 	position:relative;
 	margin:auto;
 	color:white;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	font-weight:normal;
 	font-size:1rem;
 	text-align:center;
